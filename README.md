@@ -1,6 +1,6 @@
 ### A router is able to process packets at the rate of at most r packets/second. It drops an incoming packet before processing with probability p so that it does not get overwhelmed.
 
-#### How can you represent traffic intensity in terms of r, p, and a where A is the average packet arrival rate.**
+#### How can you represent traffic intensity in terms of r, p, and a where A is the average packet arrival rate.
 
 Traffic intensity is defined as
 
@@ -19,7 +19,7 @@ $$\frac{(1-p)A}{R}$$
 
 #### Question 1
 
-**Suppose that you can connect to at most $j$ peers, where $j = \frac{n}{2}$, and the maximum link bandwidth between you and a peer is $m$ bits/second. How long does it take to download the whole file?**
+Suppose that you can connect to at most $j$ peers, where $j = \frac{n}{2}$, and the maximum link bandwidth between you and a peer is $m$ bits/second. How long does it take to download the whole file?
 
 
 
